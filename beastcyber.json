@@ -73,67 +73,27 @@
     }
   ],
   "categories": [
-    {
-      "category_id": 1,
-      "category_name": "Nature",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/nature.jpg"
-    },
-    {
-      "category_id": 2,
-      "category_name": "Sunset",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/sunset.jpg"
-    },
-    {
-      "category_id": 3,
-      "category_name": "Animal",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/animal.jpg"
-    },
-    {
-      "category_id": 4,
-      "category_name": "Forest",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/forest.jpg"
-    },
-    {
-      "category_id": 5,
-      "category_name": "City",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/city.jpg"
-    },
-    {
-      "category_id": 6,
-      "category_name": "Flower",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/flower.jpg"
-    },
-    {
-      "category_id": 7,
-      "category_name": "Live Wallpaper",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/live.jpg"
-    },
-    {
-      "category_id": 8,
-      "category_name": "Beach",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/beach.jpg"
-    },
-    {
-      "category_id": 9,
-      "category_name": "House",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/house.jpg"
-    },
-    {
-      "category_id": 10,
-      "category_name": "Space",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/space.jpg"
-    },
-    {
-      "category_id": 11,
-      "category_name": "Mountain",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/mountain.jpg"
-    },
-    {
-      "category_id": 12,
-      "category_name": "Road",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/road.jpg"
-    }
-  ],
+ {
+   "category_id": 1,
+   "category_name": "Lion",
+   "category_image": "https://i.pinimg.com/564x/8a/27/cb/8a27cb2f35497116d285c4bc7d63934a.jpg"
+ },
+ {
+   "category_id": 2,
+   "category_name": "Lion2",
+   "category_image": "https://i.pinimg.com/564x/c4/32/b0/c432b0d64b18754757bb7fa635942675.jpg"
+ },
+ {
+   "category_id": 3,
+   "category_name": "Beast",
+   "category_image": "https://i.pinimg.com/564x/7e/c2/4d/7ec24d1da768361ead0e5878bb7bf0c3.jpg"
+ },
+ {
+   "category_id": 4,
+   "category_name": "Beast2",
+   "category_image": "https://i.pinimg.com/564x/aa/a6/4c/aaa64c72943850621b2f5a62ca7a5d1d.jpg"
+ }
+],
   "wallpapers": [
  {
    "wallpaper_id": 79,
