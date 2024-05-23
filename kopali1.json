@@ -8,10 +8,10 @@
       "webview_cache": true,
       "post_list_in_large_style": false,
       "show_post_list_header": true,
-      "show_post_detail_image": true,
+      "show_post_detail_image": false,
       "show_post_detail_title": true,
       "show_post_detail_category": true,
-      "show_related_posts": true,
+      "show_related_posts": false,
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
       "enable_dark_mode_as_default_theme": false
@@ -206,7 +206,7 @@
    "category": "Cek Pajak",
    "title": "Cek Pajak Sumatera Selatan",
    "image": "https://www.svgrepo.com/show/513278/bus.svg",
-   "content": "http://bapenda.sumselprov.go.id/index.php/page/info_pajak_online",
+   "content": "https://bapenda.sumselprov.go.id/cek_pajak/teliti_ulang",
    "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
  },
  {
