@@ -8,7 +8,7 @@
       "webview_cache": true,
       "post_list_in_large_style": false,
       "show_post_list_header": true,
-      "show_post_detail_image": false,
+      "show_post_detail_image": true,
       "show_post_detail_title": false,
       "show_post_detail_category": false,
       "show_related_posts": true,
@@ -125,217 +125,217 @@
    "id": 1,
    "category": "Cek Pajak",
    "title": "Cek Pajak Banten",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "https://infopkb.bantenprov.go.id/",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 2,
    "category": "Cek Pajak",
    "title": "Cek Pajak Jawa Barat",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "https://bapenda.jabarprov.go.id/infopkb",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 3,
    "category": "Cek Pajak",
    "title": "Cek Pajak Jawa Barat 2",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "https://sambara.bapenda.jabarprov.go.id/sambara_v2/",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 4,
    "category": "Cek Pajak",
    "title": "Cek Pajak Jawa Tengah",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "https://bapenda.jatengprov.go.id/info-kendaraan-bermotor",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 5,
    "category": "Cek Pajak",
    "title": "Cek Pajak Daerah Istimewa Yogyakarta",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "https://samsatsleman.jogjaprov.go.id/cek/pajak",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 6,
    "category": "Cek Pajak",
    "title": "Cek Pajak Jawa Timur",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
-   "content": "https://bapenda.jatimprov.go.id/info/pkb",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
+   "content": "https://info.dipendajatim.go.id/esamsat",
+   "video": ""
  },
  {
    "id": 7,
    "category": "Cek Pajak",
    "title": "Cek Pajak Bali",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
-   "content": "https://portal.bpdbali.id/infosamsat",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
+   "content": "https://portal.bpdbali.id/infosamsat/",
+   "video": ""
  },
  {
    "id": 8,
    "category": "Cek Pajak",
    "title": "Cek Pajak Aceh",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "https://esamsat.acehprov.go.id/",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 9,
    "category": "Cek Pajak",
    "title": "Cek Pajak Sumatera Utara",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "https://bapenda.sumutprov.go.id/website/pajak#/pkb/info-pkb",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 10,
    "category": "Cek Pajak",
    "title": "Cek Pajak Sumatera Barat",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "https://dpkd.sumbarprov.go.id/info-pkb.html",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 11,
    "category": "Cek Pajak",
    "title": "Cek Pajak Sumatera Selatan",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "https://bapenda.sumselprov.go.id/cek_pajak/teliti_ulang",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 12,
    "category": "Cek Pajak",
    "title": "Cek Pajak Bengkulu",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "https://pusako.bengkuluprov.go.id/infopajak",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 13,
    "category": "Cek Pajak",
    "title": "Cek Pajak Riau",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "https://bapenda.riau.go.id/dashboard/layanan/infopajak",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 14,
    "category": "Cek Pajak",
    "title": "Cek Pajak Kepulauan Riau",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "http://203.130.248.194:81/info/",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 15,
    "category": "Cek Pajak",
    "title": "Cek Pajak Jambi",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "http://jambisamsat.net/infopkb.html",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 16,
    "category": "Cek Pajak",
    "title": "Cek Pajak Lampung",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "http://pkb.bapenda.lampungprov.go.id/pkb",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 17,
    "category": "Cek Pajak",
    "title": "Cek Pajak Kalimantan Selatan",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "https://bapenda.kalselprov.go.id/samsat-keliling/",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 18,
    "category": "Cek Pajak",
    "title": "Cek Pajak Kalimantan Barat",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "https://uptppdptk1-bapenda.kalbarprov.go.id",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 19,
    "category": "Cek Pajak",
    "title": "Cek Pajak Kalimantan Tengah",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "https://pajak.samsatkalteng.com/",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 20,
    "category": "Cek Pajak",
    "title": "Cek Pajak Kalimantan Timur",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "http://simpator.kaltimprov.go.id/cari.php",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 21,
    "category": "Cek Pajak",
    "title": "Cek Pajak Sulawesi Selatan",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "https://bapendasulsel.web.id/v1/sms-info-pajak-kendaraan/",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 22,
    "category": "Cek Pajak",
    "title": "Cek Pajak Sulawesi Tengah",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "http://bapenda.sultengprov.go.id/pkb",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 23,
    "category": "Cek Pajak",
    "title": "Cek Pajak Sulawesi Utara",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "https://bapenda.sulutprov.go.id/index.php?page=cekpajak",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 24,
    "category": "Cek Pajak",
    "title": "Cek Pajak Nusa Tenggara Barat",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
-   "content": "https://bappenda.ntbprov.go.id/infopkb",
-   "video": "https://bappenda.ntbprov.go.id/Informasi%20Pajak%20Kendaraan"
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
+   "content": "https://bappenda.ntbprov.go.id/Informasi%20Pajak%20Kendaraan",
+   "video": ""
  },
  {
    "id": 25,
    "category": "Cek Pajak",
    "title": "Cek Pajak Nusa Tenggara Timur",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "https://bpad.nttprov.go.id/Lap/infopajak",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 26,
    "category": "Cek Pajak",
    "title": "Cek Pajak Maluku Utara",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
    "content": "https://esamsat.malukuprov.go.id/kiosk/kiosk.aspx",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": ""
  },
  {
    "id": 27,
    "category": "Cek Pajak",
    "title": "Cek Pajak Papua",
-   "image": "https://www.svgrepo.com/show/513278/bus.svg",
-   "content": "https://www.bankpapua.co.id/home/index/detailslide/e-samsat-papua-33",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/category/how-to.png",
+   "content": "http://180.250.219.60:81/cekpajak/",
+   "video": ""
  }
 ],
   "more_apps": [
