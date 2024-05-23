@@ -9,9 +9,9 @@
       "post_list_in_large_style": false,
       "show_post_list_header": true,
       "show_post_detail_image": false,
-      "show_post_detail_title": true,
-      "show_post_detail_category": true,
-      "show_related_posts": false,
+      "show_post_detail_title": false,
+      "show_post_detail_category": false,
+      "show_related_posts": true,
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
       "enable_dark_mode_as_default_theme": false
@@ -311,7 +311,7 @@
    "title": "Cek Pajak Nusa Tenggara Barat",
    "image": "https://www.svgrepo.com/show/513278/bus.svg",
    "content": "https://bappenda.ntbprov.go.id/infopkb",
-   "video": "https://images.unsplash.com/photo-1710880079976-0b838851c8c5"
+   "video": "https://bappenda.ntbprov.go.id/Informasi%20Pajak%20Kendaraan"
  },
  {
    "id": 25,
