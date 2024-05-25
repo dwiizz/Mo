@@ -9,7 +9,7 @@
       "post_list_in_large_style": false,
       "show_post_list_header": true,
       "show_post_detail_image": true,
-      "show_post_detail_title": false,
+      "show_post_detail_title": true,
       "show_post_detail_category": false,
       "show_related_posts": true,
       "enable_rtl_mode": false,
