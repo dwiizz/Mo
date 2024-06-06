@@ -2,7 +2,7 @@
   "apps": [
     {
       "status": true,
-      "featured_categories": "ライオン,猫, ハムスター, キングコング, 犬, ライオン1, 獣, ビースト1",
+      "featured_categories": "ライオン,猫, ハムスター, キングコング, 犬, ライオン1, 獣, ビースト1", サイ, ブル
       "show_wallpaper_name": false,
       "show_wallpaper_category": false,
       "show_favorite_button_in_wallpaper_list": true,
@@ -112,6 +112,16 @@
    "category_id": 6,
    "category_name": "犬",
    "category_image": "https://i.pinimg.com/564x/04/5f/79/045f79be8fae9ee2d9028793f53d314e.jpg"
+ },
+    {
+   "category_id": 7,
+   "category_name": "サイ",
+   "category_image": "https://i.pinimg.com/564x/25/ed/d3/25edd3fd0e3312f07507a3a88dfa1efb.jpg"
+ },
+ {
+   "category_id": 8,
+   "category_name": "ブル",
+   "category_image": "https://i.pinimg.com/564x/4a/9e/8d/4a9e8da7edcf36859ab5cf58ee4fb32d.jpg"
  }
 
 ],
