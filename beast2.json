@@ -2,7 +2,7 @@
   "apps": [
     {
       "status": true,
-      "featured_categories": "ライオン,猫, ハムスター, キングコング, 犬, ライオン1, 獣, ビースト1, サイ, ブル",
+      "featured_categories": "Silly Smile, ライオン,猫, ハムスター, キングコング, 犬, ライオン1, 獣, ビースト1, サイ, ブル",
       "show_wallpaper_name": false,
       "show_wallpaper_category": false,
       "show_favorite_button_in_wallpaper_list": true,
@@ -73,6 +73,11 @@
     }
   ],
   "categories": [
+    {
+   "category_id": 9,
+   "category_name": "Silly Smile,
+   "category_image": "https://i.pinimg.com/564x/f1/15/4b/f1154b3bcdcfe7e9ae4f236054a7f0b8.jpg"
+ },
  {
    "category_id": 1,
    "category_name": "ライオン",
