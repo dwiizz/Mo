@@ -175,6 +175,13 @@
    "wallpaper_thumbnail": "",
    "wallpaper_url": "https://i.pinimg.com/564x/3c/35/ba/3c35ba8a2fafd22c7b0a85f348b072db.jpg"
  },
+    {
+   "wallpaper_id": 4,
+   "category_name": "Fluid Wallpaper",
+   "wallpaper_name": "Fluid 4",
+   "wallpaper_thumbnail": "https://raw.githubusercontent.com/dwiizz/Mo/refs/heads/main/fluid/cd5ec14c5dbfcbc6ba9d975ba8bd4dbe.png",
+   "wallpaper_url": "https://v1.pinimg.com/videos/iht/720p/cd/5e/c1/cd5ec14c5dbfcbc6ba9d975ba8bd4dbe.mp4"
+ },
  {
    "wallpaper_id": 79,
    "category_name": "犬",
@@ -566,6 +573,84 @@
    "wallpaper_name": "犬12",
    "wallpaper_thumbnail": "",
    "wallpaper_url": "https://i.pinimg.com/564x/3f/1c/3f/3f1c3fc860802237514deb8a6ae5a3e8.jpg"
+ },
+     {
+   "wallpaper_id": 1,
+   "category_name": "Fluid Wallpaper",
+   "wallpaper_name": "Fluid 1",
+   "wallpaper_thumbnail": "https://raw.githubusercontent.com/dwiizz/Mo/refs/heads/main/fluid/04a9decf758694cb1ea99d03716d4418.png",
+   "wallpaper_url": "https://v1.pinimg.com/videos/iht/720p/04/a9/de/04a9decf758694cb1ea99d03716d4418.mp4"
+ },
+ {
+   "wallpaper_id": 2,
+   "category_name": "Fluid Wallpaper",
+   "wallpaper_name": "Fluid 2",
+   "wallpaper_thumbnail": "https://raw.githubusercontent.com/dwiizz/Mo/refs/heads/main/fluid/a0b4965f0e118b2a314e1ebcd77cc61c.png",
+   "wallpaper_url": "https://v1.pinimg.com/videos/iht/720p/a0/b4/96/a0b4965f0e118b2a314e1ebcd77cc61c.mp4"
+ },
+ {
+   "wallpaper_id": 3,
+   "category_name": "Fluid Wallpaper",
+   "wallpaper_name": "Fluid 3",
+   "wallpaper_thumbnail": "https://raw.githubusercontent.com/dwiizz/Mo/refs/heads/main/fluid/bed9b1ce1494793c782ad731dc576fc7.png",
+   "wallpaper_url": "https://v1.pinimg.com/videos/iht/720p/be/d9/b1/bed9b1ce1494793c782ad731dc576fc7.mp4"
+ },
+ 
+ {
+   "wallpaper_id": 5,
+   "category_name": "Fluid Wallpaper",
+   "wallpaper_name": "Fluid 5",
+   "wallpaper_thumbnail": "https://raw.githubusercontent.com/dwiizz/Mo/refs/heads/main/fluid/3eb7503e561f173a53e1dbde95009a80.png",
+   "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/3e/b7/50/3eb7503e561f173a53e1dbde95009a80.mp4"
+ },
+ {
+   "wallpaper_id": 6,
+   "category_name": "Fluid Wallpaper",
+   "wallpaper_name": "Fluid 6",
+   "wallpaper_thumbnail": "https://raw.githubusercontent.com/dwiizz/Mo/refs/heads/main/fluid/4f5b67a9b394a70c66dd838ca5582b8c.png",
+   "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/4f/5b/67/4f5b67a9b394a70c66dd838ca5582b8c.mp4"
+ },
+ {
+   "wallpaper_id": 7,
+   "category_name": "Fluid Wallpaper",
+   "wallpaper_name": "Fluid 7",
+   "wallpaper_thumbnail": "https://raw.githubusercontent.com/dwiizz/Mo/refs/heads/main/fluid/7a3c331ab9bb2181d19d3eedb8e7637f.png",
+   "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/7a/3c/33/7a3c331ab9bb2181d19d3eedb8e7637f.mp4"
+ },
+ {
+   "wallpaper_id": 8,
+   "category_name": "Fluid Wallpaper",
+   "wallpaper_name": "Fluid 8",
+   "wallpaper_thumbnail": "https://raw.githubusercontent.com/dwiizz/Mo/refs/heads/main/fluid/7a52994e9ea9b2002f570894b022b8b1.png",
+   "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/7a/52/99/7a52994e9ea9b2002f570894b022b8b1.mp4"
+ },
+ {
+   "wallpaper_id": 9,
+   "category_name": "Fluid Wallpaper",
+   "wallpaper_name": "Fluid 9",
+   "wallpaper_thumbnail": "https://raw.githubusercontent.com/dwiizz/Mo/refs/heads/main/fluid/88679b9e56afdf480d25533ccc4b9e19.png",
+   "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/88/67/9b/88679b9e56afdf480d25533ccc4b9e19.mp4"
+ },
+ {
+   "wallpaper_id": 10,
+   "category_name": "Fluid Wallpaper",
+   "wallpaper_name": "Fluid 10",
+   "wallpaper_thumbnail": "https://raw.githubusercontent.com/dwiizz/Mo/refs/heads/main/fluid/9351c40dddbe72bbcfa1b8e9432ca2bf.png",
+   "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/93/51/c4/9351c40dddbe72bbcfa1b8e9432ca2bf.mp4"
+ },
+ {
+   "wallpaper_id": 11,
+   "category_name": "Fluid Wallpaper",
+   "wallpaper_name": "Fluid 11",
+   "wallpaper_thumbnail": "https://raw.githubusercontent.com/dwiizz/Mo/refs/heads/main/fluid/cdc7e679121dbcd0c3449ad2dc65b042.png",
+   "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/cd/c7/e6/cdc7e679121dbcd0c3449ad2dc65b042.mp4"
+ },
+ {
+   "wallpaper_id": 12,
+   "category_name": "Fluid Wallpaper",
+   "wallpaper_name": "Fluid 12",
+   "wallpaper_thumbnail": "https://raw.githubusercontent.com/dwiizz/Mo/refs/heads/main/fluid/e1c1ecef8ab747bdd49edc18bd6067f5.png",
+   "wallpaper_url": "https://v1.pinimg.com/videos/mc/720p/e1/c1/ec/e1c1ecef8ab747bdd49edc18bd6067f5.mp4"
  },
  {
    "wallpaper_id": 283,
