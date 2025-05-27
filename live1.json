@@ -237,34 +237,7 @@
    "wallpaper_thumbnail": "https://archive.org/download/anm_20250521/anm_20250521.thumbs/mx/sili%20%281%29_000001.jpg",
    "wallpaper_url": "http://archive.org/download/anm_20250521/mx/sili%20%281%29.mp4"
  },
- {
-   "wallpaper_id": 27,
-   "category_name": "Animal",
-   "wallpaper_name": "an (15).ia.mp4 ",
-   "wallpaper_thumbnail": "http://archive.org/download/an-22/an-22.thumbs/Ani/an%20%2815%29_000001.jpg",
-   "wallpaper_url": "http://archive.org/download/an-22/Ani/an%20%2815%29.ia.mp4"
- },
- {
-   "wallpaper_id": 796,
-   "category_name": "Space",
-   "wallpaper_name": "sp (9).mp4 ",
-   "wallpaper_thumbnail": "https://archive.org/download/sp-1_20250505/sp-1_20250505.thumbs/Spa/sp%20%289%29_000001.jpg",
-   "wallpaper_url": "http://archive.org/download/sp-1_20250505/Spa/sp%20%289%29.mp4"
- },
- {
-   "wallpaper_id": 398,
-   "category_name": "Fluid",
-   "wallpaper_name": "flu (13).mp4 ",
-   "wallpaper_thumbnail": "https://archive.org/download/flu-28/flu-28.thumbs/Flu/flu%20%2813%29_000001.jpg",
-   "wallpaper_url": "http://archive.org/download/flu-28/Flu/flu%20%2813%29.mp4"
- },
- {
-   "wallpaper_id": 94,
-   "category_name": "Anime",
-   "wallpaper_name": "ani (37).ia.mp4 ",
-   "wallpaper_thumbnail": "http://archive.org/download/ani-38/ani-38.thumbs/An/ani%20%2837%29_000001.jpg",
-   "wallpaper_url": "http://archive.org/download/ani-38/An/ani%20%2837%29.ia.mp4"
- },
+ 
  {
    "wallpaper_id": 434,
    "category_name": "Football",
@@ -502,6 +475,34 @@
    "wallpaper_name": "mon (5).mp4 ",
    "wallpaper_thumbnail": "https://archive.org/download/mon-3_202505/mon-3_202505.thumbs/Mo/mon%20%285%29_000001.jpg",
    "wallpaper_url": "http://archive.org/download/mon-3_202505/Mo/mon%20%285%29.mp4"
+ },
+    {
+   "wallpaper_id": 27,
+   "category_name": "Animal",
+   "wallpaper_name": "an (15).ia.mp4 ",
+   "wallpaper_thumbnail": "http://archive.org/download/an-22/an-22.thumbs/Ani/an%20%2815%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/an-22/Ani/an%20%2815%29.ia.mp4"
+ },
+ {
+   "wallpaper_id": 796,
+   "category_name": "Space",
+   "wallpaper_name": "sp (9).mp4 ",
+   "wallpaper_thumbnail": "https://archive.org/download/sp-1_20250505/sp-1_20250505.thumbs/Spa/sp%20%289%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/sp-1_20250505/Spa/sp%20%289%29.mp4"
+ },
+ {
+   "wallpaper_id": 398,
+   "category_name": "Fluid",
+   "wallpaper_name": "flu (13).mp4 ",
+   "wallpaper_thumbnail": "https://archive.org/download/flu-28/flu-28.thumbs/Flu/flu%20%2813%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/flu-28/Flu/flu%20%2813%29.mp4"
+ },
+ {
+   "wallpaper_id": 94,
+   "category_name": "Anime",
+   "wallpaper_name": "ani (37).ia.mp4 ",
+   "wallpaper_thumbnail": "http://archive.org/download/ani-38/ani-38.thumbs/An/ani%20%2837%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/ani-38/An/ani%20%2837%29.ia.mp4"
  },
  {
    "wallpaper_id": 127,
