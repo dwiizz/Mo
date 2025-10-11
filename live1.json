@@ -76,12 +76,27 @@
  {
    "category_id": 5,
    "category_name": "Mix 1",
-   "category_image": "https://archive.org/download/mix-1-110/mix-1-110.thumbs/Mix%201%20%281%29_000001.jpg"
+   "category_image": "https://archive.org/download/mix-1-110/mix-1-110.thumbs/Mix%201%20%28107%29_000001.jpg"
+ },
+    {
+   "category_id": 24,
+   "category_name": "Silly Smile",
+   "category_image": "https://archive.org/download/sill-34/sill-34.thumbs/Sil/sill%20%2811%29_000001.jpg"
+ },
+    {
+   "category_id": 3,
+   "category_name": "Anime",
+   "category_image": "http://archive.org/download/ani-38/ani-38.thumbs/An/ani%20%2812%29_000001.jpg"
  },
  {
    "category_id": 16,
    "category_name": "Super Hero",
    "category_image": "https://archive.org/download/he-4_20250502/he-4_20250502.thumbs/He/he%20%2829%29_000001.jpg"
+ },
+    {
+   "category_id": 29,
+   "category_name": "Don’t Touch",
+   "category_image": "https://archive.org/download/tou-14/tou-14.thumbs/Tou/tou%20%2810%29_000001.jpg"
  },
  {
    "category_id": 26,
@@ -118,11 +133,7 @@
    "category_name": "Baby",
    "category_image": "http://archive.org/download/ba-10/ba-10.thumbs/Ba/ba%20%2815%29_000001.jpg"
  },
- {
-   "category_id": 24,
-   "category_name": "Silly Smile",
-   "category_image": "https://archive.org/download/sill-34/sill-34.thumbs/Sil/sill%20%2811%29_000001.jpg"
- },
+ 
  {
    "category_id": 20,
    "category_name": "Nature",
@@ -158,11 +169,7 @@
    "category_name": "Devil",
    "category_image": "http://archive.org/download/de-16_202505/de-16_202505.thumbs/De/de%20%282%29_000001.jpg"
  },
- {
-   "category_id": 3,
-   "category_name": "Anime",
-   "category_image": "http://archive.org/download/ani-38/ani-38.thumbs/An/ani%20%2812%29_000001.jpg"
- },
+ 
  {
    "category_id": 8,
    "category_name": "Broken Wall",
@@ -203,11 +210,7 @@
    "category_name": "Fire",
    "category_image": "http://archive.org/download/fir-24_202505/fir-24_202505.thumbs/Fi/fir%20%282%29_000001.jpg"
  },
- {
-   "category_id": 29,
-   "category_name": "Don’t Touch",
-   "category_image": "https://archive.org/download/tou-14/tou-14.thumbs/Tou/tou%20%2810%29_000001.jpg"
- },
+ 
  {
    "category_id": 27,
    "category_name": "Sunset",
