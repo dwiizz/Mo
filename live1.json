@@ -78,6 +78,11 @@
    "category_name": "Mix 1",
    "category_image": "https://archive.org/download/mix-1-110/mix-1-110.thumbs/Mix%201%20%28107%29_000001.jpg"
  },
+     {
+   "category_id": 32,
+   "category_name": "Halloween",
+   "category_image": "https://archive.org/download/hw-24/hw-24.thumbs/hw%20%2817%29_000001.jpg"
+ },
     {
    "category_id": 24,
    "category_name": "Silly Smile",
