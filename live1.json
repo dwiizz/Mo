@@ -74,9 +74,19 @@
   ],
   "categories": [
  {
-   "category_id": 5,
+   "category_id": 33,
    "category_name": "Mix 1",
    "category_image": "https://archive.org/download/mix-1-110/mix-1-110.thumbs/Mix%201%20%28107%29_000001.jpg"
+ },
+    {
+   "category_id": 35,
+   "category_name": "Mix 2",
+   "category_image": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%2814%29_000001.jpg"
+ },
+    {
+   "category_id": 34,
+   "category_name": "Christmas",
+   "category_image": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/ch%20%2824%29_000001.jpg"
  },
      {
    "category_id": 32,
@@ -243,6 +253,342 @@
  }
 ],
   "wallpapers": [
+     {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 18",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%284%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%284%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 2",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%2810%29_000005.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%2810%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 7",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%2815%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%2815%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 3",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%2811%29_000010.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%2811%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 6",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%2814%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%2814%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 2",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%2810%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%2810%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 14",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%2821%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%2821%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 9",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%2817%29_000018.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%2817%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 1",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%281%29_000012.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%281%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 10",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%2818%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%2818%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 1",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%281%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%281%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 11",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%2819%29_000002.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%2819%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 10",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%2818%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%2818%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 16",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%2823%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%2823%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 14",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%2821%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%2821%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 22",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%288%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%288%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 15",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%2822%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%2822%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 19",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%286%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%286%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 17",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%284%29_000007.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%284%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 20",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%286%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%286%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 15",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%2822%29_000019.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%2822%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 7",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%2815%29_000002.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%2815%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 20",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%287%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%287%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 13",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%2820%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%2820%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 26",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/ch%20%2826%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/ch%20%2826%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 8",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%2816%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%2816%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 18",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%285%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%285%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 4",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%2812%29_000006.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%2812%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 19",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%285%29_000020.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%285%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 21",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%288%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%288%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 12",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%282%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%282%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 5",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%2813%29_000006.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%2813%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 13",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%2820%29_000002.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%2820%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 8",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%2816%29_000002.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%2816%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 9",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%2817%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%2817%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 3",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%2811%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%2811%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 23",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%289%29_000002.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%289%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 4",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%2812%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%2812%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 22",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%289%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%289%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 21",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%287%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%287%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 16",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%283%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%283%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 25",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/ch%20%2825%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/ch%20%2825%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 24",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/ch%20%2824%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/ch%20%2824%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 5",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%2813%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%2813%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 17",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%283%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%283%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Christmas",
+   "wallpaper_name": "Christmas 6",
+   "wallpaper_thumbnail": "https://archive.org/download/ch-12_202511/ch-12_202511.thumbs/Christmas/ch%20%2814%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/ch-12_202511/Christmas/ch%20%2814%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 12",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%282%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%282%29.mp4"
+ },
+ {
+   "wallpaper_id": 1143,
+   "category_name": "Mix 2",
+   "wallpaper_name": "Mix 2 11",
+   "wallpaper_thumbnail": "https://archive.org/download/mix-2-17/mix-2-17.thumbs/mx2/mix%202%20%2819%29_000001.jpg",
+   "wallpaper_url": "http://archive.org/download/mix-2-17/mx2/mix%202%20%2819%29.mp4"
+ },
       {
    "wallpaper_id": 1109,
    "category_name": "Mix 1",
